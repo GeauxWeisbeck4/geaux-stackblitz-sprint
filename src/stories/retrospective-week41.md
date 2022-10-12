@@ -1,10 +1,10 @@
 ---
-title: Retrospective for week 34 sprint
-description: This is a backlog task.
+title: Retrospective for Week 41
+description: Reflecting on the week.
 date: 2020-08-24 17:27:00.00 +7
 tags:
-  - done
-  - Week34
+  - backlog
+  - Week41
   - retrospective
 layout: layouts/story.njk
 ---

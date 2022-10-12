@@ -1,6 +1,6 @@
 ---
-title: Create a done section for stories that are completed
-description: This is a backlog task.
+title: Finish Trello Boards
+description: Set up all Trello Boards
 date: 2020-08-23 17:01:00.00 +7
 tags:
   - done

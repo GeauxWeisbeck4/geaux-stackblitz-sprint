@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Geaux Stackblitz Sprint",
+  "url": "https://geauxstackblitzsprint.netlify.app/",
+  "description": "Follow my agile sprint activities and learn from them with me.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "An agile sprint website",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://geauxstackblitzsprint.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://geauxstackblitzsprint.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://geauxstackblitzsprint.netlify.app/about-me/"
   }
 }
