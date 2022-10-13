@@ -7,20 +7,22 @@ tags:
   - Week41
 layout: layouts/story.njk
 ---
+
 ## Description
 
-Take notes for JavaScript, Python, and CSS 
+Take notes for JavaScript, Python, and CSS
 
 ## Notes
 
-- [] Eloquent JavaScript
-- [] Understanding ECMA6
-- [] Python 
+- [x] Eloquent JavaScript
+- [x] Understanding ECMA6
+- [x] Python
 
 ## Tasks
 
-- ~~Remove any personal info from repo
-- ~~Update the README.md
-- ~~Create github repo
-- ~~Add github repo as a remote
-- ~~Push to github remote
+- ~~Spend at least 3 hours on JavaScript~~
+- ~~Spend at least 3 hours on Python
+- ~~Spend at least 3 hours on CSS in Depth
+- ~~Start Eloquent JavaScript~~
+- ~~Start Python Notes~~
+- ~~Start CSS In Depth~~
