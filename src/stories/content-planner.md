@@ -7,13 +7,20 @@ tags:
   - Week41
 layout: layouts/story.njk
 ---
+
 ## Description
 
-Plan out content for the rest of the week/month with social media, blogs and 
+Plan out content for the rest of the week/month with social media, blogs and
 
 ## Implementation
 
-Add it to theTrello Board
+- [] Medium - One Blog, One Awesome WebDev
+- [] MEAN Stack Dev, Podcast
+- [] Dev.to - Series on JavaScript Patterns
+- [] Post to donation pages
+  - [] Post what I need from people
+- [] GeauxWeisbeck4.dev Blog Post
+- [] andrewweisbeck.blog post
 
 ## Tasks
 

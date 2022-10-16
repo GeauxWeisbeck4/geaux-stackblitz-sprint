@@ -1,9 +1,9 @@
 ---
 title: Create Digital Garden for LogSeq  Notes
 description: Create my little piece of the internet
-date: 2022-10-12 17:03:00.00 +7
+date: 2022-10-16 17:03:00.00 +7
 tags:
-  - backlog
+  - done
   - Week41
 layout: layouts/story.njk
 ---
