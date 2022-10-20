@@ -3,7 +3,7 @@ title: Agile environment starting to emerge.
 description: Review of the agile environment.
 date: 2020-08-22 19:00:00.00 +7
 tags:
-  - Week34
+  - Week41
 layout: layouts/post.njk
 ---
 I continue to make good progress today on setting up the personal agile environment.

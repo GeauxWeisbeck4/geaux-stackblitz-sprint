@@ -10,4 +10,4 @@ layout: layouts/story.njk
 
 ## Description
 
-Create a new sprint and add some stories, make sure the UI displays as expected.
+~~Create a new sprint and add some stories, make sure the UI displays as expected.~~

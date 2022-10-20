@@ -10,7 +10,7 @@ layout: layouts/story.njk
 
 ## Description
 
-I need to publish my LogSeq notes and keep a solid digital garden going on the web.
+I need to publish my LogSeq notes and keep a solid digital garden going on the web. I want a good knowledge system shared for everyone to see how my brain works! Well, when taking notes and such.
 
 ## Tasks
 

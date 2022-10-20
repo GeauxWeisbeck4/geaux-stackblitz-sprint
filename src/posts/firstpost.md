@@ -7,19 +7,10 @@ tags:
 layout: layouts/post.njk
 ---
 
-I finally got to making this first post that I will count for Monday - Thursday I suppose. Here is a rundown of all the things I've done:
+I finally got to making this first post that I will count for Monday - Thursday I suppose. Here is a rundown of all the things I've done: - Started the Producitivity Sprint - Worked at Bubba's Bacon - Got Agile Stackblitz Sprint Setup - Planned for new Tar Heel Dev Studio website - Took Toptal Test
 
-## Section Header
+## Rough Week for the Mac
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+My worst fears were confirmed - my Mac is basically dog shit, thanks to the Pawn shop people. They said that they didn't touch my Mac, but why else would it be ruined? Fuck y'all.
 
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+That poo-pood everything for the week and I don't really have much positive to report.

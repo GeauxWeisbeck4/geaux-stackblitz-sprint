@@ -10,6 +10,10 @@ layout: layouts/story.njk
 
 I am starting another sprint just as one ends. I am excited for the productivity sprint.
 
+I will say, I wasn't quite ready to get going with all the work, but I was ready for this Sprint if you understand what I'm saying.
+
+I guess that probably still doesn't make sense haha I enjoy this topic a lot, but I wasn't prepared to start working so hard. Oh well! I'll catch up next week.
+
 ## Blog posts
 
 - ~~[Setup personal agile environment](/posts/setup-personal-agile-environment)~~
@@ -18,10 +22,10 @@ I am starting another sprint just as one ends. I am excited for the productivity
 
 ## Tasks
 
-- ~~Add Module One Notes
-- ~~Watch module one videos
-- ~~First Day blog post
-- ~~Get setup on Productivity Sprint Website
-- ~~Prepare to practice methods learned
-- ~~Respond to classmates posts
-- ~~Look over workbook and plan week
+- ~~Add Module One Notes~~
+- ~~Watch module one videos~~
+- ~~First Day blog post~~
+- ~~Get setup on Productivity Sprint Website~~
+- ~~Prepare to practice methods learned~~
+- ~~Respond to classmates posts~~
+- ~~Look over workbook and plan week~~~

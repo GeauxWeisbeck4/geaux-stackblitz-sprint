@@ -3,7 +3,7 @@ title: Take Notes
 description: Take JavaScript, Python, CSS Notes
 date: 2022-10-12 17:30:00.00 +7
 tags:
-  - backlog
+  - done
   - Week41
 layout: layouts/story.njk
 ---
@@ -21,8 +21,8 @@ Take notes for JavaScript, Python, and CSS
 ## Tasks
 
 - ~~Spend at least 3 hours on JavaScript~~
-- ~~Spend at least 3 hours on Python
-- ~~Spend at least 3 hours on CSS in Depth
+- ~~Spend at least 3 hours on Python~
+- ~~Spend at least 3 hours on CSS in Depth~
 - ~~Start Eloquent JavaScript~~
 - ~~Start Python Notes~~
 - ~~Start CSS In Depth~~
